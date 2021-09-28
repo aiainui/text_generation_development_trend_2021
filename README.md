@@ -1,13 +1,17 @@
 # text_generation_development_trend_2021
 【AI Drive】文本生成任务十大发展趋势（2020-2021）
 
-视频讲解见: https://www.bilibili.com/video/BV1WM4y1g7Bk
+### 视频讲解
+
+见: https://www.bilibili.com/video/BV1WM4y1g7Bk
+
+简要笔记见，本repo中的pdf文件
 
 
-QA：
-bertScore发现不了事实性错误。
+### QA：
 
-1.怎样生成更加事实性的文本？
+
+1.怎样生成更加事实性的文本？（bertScore发现不了事实性错误。）
 
 A：SimCLS，对比学习可以缓解实体类与数字的错误（细粒度的优化）
 factuallity aware的paper
